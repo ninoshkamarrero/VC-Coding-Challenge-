@@ -1,0 +1,11 @@
+------------1. Explain what the terminal is in your own words.-------------------
+
+The terminal is a way for the user to give direct commands to the computer with the use of text commands. The terminal is also used to accomplish certain actions faster, such as creating empty files in bulk and deleting files that start with the letter "A" for example.       
+
+-----------2. What is the major difference between Git and Github?--------------------
+
+As mentioned in the VCS PowerPoint, Git introduces the concept of a local repository whereas Github manages Git repositories through a cloud server.  
+
+-----------3. Why do we use Github?-------------------
+
+Github is used for collaborative work with repositories. Github allows users to host their Git repo and manage the version control with other users. It also has a terminal in which you can give Git commands for the repository that is hosted.
